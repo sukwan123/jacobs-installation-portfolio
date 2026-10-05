@@ -13,22 +13,13 @@
 
 ## 다운로드
 
-[**Releases**](../../releases/latest) 에서 두 파일을 모두 받으세요.
-
-| 파일 | 크기 |
-|---|---|
-| `JacobsInstallation_Win64.zip.001` | 1.9 GB |
-| `JacobsInstallation_Win64.zip.002` | 1.0 GB |
-
-1. 두 파일을 **같은 폴더**에 받습니다.
-2. **반디집 · 알집 · 7-Zip** 중 하나로 `JacobsInstallation_Win64.zip.001` 을 엽니다(두 조각이 자동으로 합쳐집니다). 윈도우 기본 압축 풀기로는 열리지 않습니다.
-3. `JacobsInstallation\portfolio.exe` 를 실행합니다.
+[**Releases**](../../releases/latest) 에서 `JacobsInstallation_Win64.zip`(1.4 GB) 을 받아 압축을 풀고 `JacobsInstallation\portfolio.exe` 를 실행하세요.
 
 ## 권장 사양
 
 - Windows 10/11 64비트, DirectX 12
 - 그래픽: RTX 4070 SUPER 에서 4K 45–65 fps(업스케일 TSR) 확인. RTX 3060 급 이상 권장
-- 저장 공간 약 3 GB
+- 저장 공간 약 1.6 GB
 - 화면 모드·해상도(FHD/QHD/UHD)·프레임(60/40)은 타이틀의 **옵션** 또는 게임 중 **Esc** 메뉴에서 바꿀 수 있습니다.
 
 ## 조작
@@ -60,7 +51,7 @@
 
 ## 고지
 
-- 비상업 팬 리디자인 포트폴리오입니다. StarCraft 및 관련 명칭·설정은 © Blizzard Entertainment 의 것입니다.
+- StarCraft 및 관련 명칭·설정은 © Blizzard Entertainment 의 것입니다.
 - 캐릭터: Paragon: Murdock (© Epic Games)
 - 환경: Quixel Megascans (Fab), ModSci Interiors / Engineer / EngiProps
 - 유닛 · 소품: Fab 무료 에셋 — 각 작가 (CC BY)
